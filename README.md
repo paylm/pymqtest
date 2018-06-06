@@ -1,0 +1,3 @@
+# pymqtest
+
+for rabbitmq demo
